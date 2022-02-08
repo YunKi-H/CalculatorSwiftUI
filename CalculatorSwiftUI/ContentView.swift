@@ -29,7 +29,7 @@ enum CalculatorButton: String {
 		case .plus: return "+"
 		case .minus: return "-"
 		case .multiply: return "X"
-		case .divide: return "/"
+		case .divide: return "÷"
 		case .ac: return "AC"
 		case .plusMinus: return "+/-"
 		case .percent: return "%"
